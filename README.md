@@ -19,7 +19,7 @@ The goal of this project is to understand how recommendation systems work in rea
 - NumPy
 
 ## Dataset
-The dataset used for this project is taken from Kaggle (Movie Recommendation System / MovieLens).
+The dataset used for this project is taken from Kaggle (Movie Recommendation System).
 It contains two main files:
 
 - ratings.csv – user ratings for movies
